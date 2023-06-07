@@ -1,14 +1,15 @@
-# Much To-do (Seize the Day)
+# Much To-do (Seize the Day) Frontend
 
-Boca Code Week 5 Much To-do: A to-do app built with React and Firebase that allows users to create and manage tasks in real-time, with automatic data syncing across multiple devices.
+Boca Code Week 5 Much To-do: A to-do app built with React and Firebase that allows users to create and manage tasks in real-time, with automatic data syncing across multiple devices. [Backend](https://github.com/v-cazeau/much-todo-api)
+
 
 ![screenshot](./public/images/readme.png)
 
 ## Features
 
-- Create and manage tasks: Easily add and read tasks with a user-friendly interface.
-- Real-time updates: Enjoy automatic data syncing across devices, keeping your to-do list up to date.
-- Task prioritization: Assign priority levels to tasks for better organization and focus.
+- **Create and manage tasks**: Easily add and read tasks with a user-friendly interface.
+- **Real-time updates**: Enjoy automatic data syncing across devices, keeping your to-do list up to date.
+- **Task prioritization**: Assign priority levels to tasks for better organization and focus.
 
 ## Technologies Used
 
@@ -29,7 +30,7 @@ Boca Code Week 5 Much To-do: A to-do app built with React and Firebase that allo
 
 ## Special Thanks
 
-- Thank you to [Boca Code](https://github.com/bocacode) for providing the learning environment, resources, and support for this project.
+- Special thanks to [Boca Code](https://github.com/bocacode) for providing the learning environment, resources, and support for this project.
 
 ---
 
